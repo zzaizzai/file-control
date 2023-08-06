@@ -1,6 +1,6 @@
 from pathlib import Path
 
-import FileControl as fc
+from FileControl import FileControl as fc
 
 
 if __name__ == '__main__':
